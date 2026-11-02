@@ -1,0 +1,39 @@
+{
+  "publication_kind": "official-notebook-import",
+  "evidence": "https://hanlab.mit.edu/courses/2026-fall-65940",
+  "imported_at": "2026-11-02",
+  "notebooks": [
+    {
+      "name": "lab0",
+      "url": "https://colab.research.google.com/drive/1PfVYxikSaVpCSD-cnmNLN4l7yx_4odmg",
+      "title": "Lab 0",
+      "export_url": "https://drive.google.com/uc?export=download&id=1PfVYxikSaVpCSD-cnmNLN4l7yx_4odmg",
+      "bytes": 14851,
+      "sha256": "15a903c4aa428e7b1fa94ba6c179ff0b623e90fcf9c99cd5a88fcce0661440ea"
+    },
+    {
+      "name": "lab2",
+      "url": "https://colab.research.google.com/drive/1-HEcO8qxlbOgccAg6TyuDTOqWt1Jx45W",
+      "title": "Lab 2",
+      "export_url": "https://drive.google.com/uc?export=download&id=1-HEcO8qxlbOgccAg6TyuDTOqWt1Jx45W",
+      "bytes": 411542,
+      "sha256": "937520aa4fcc19973f21586e9af67ece82d4efcf4581ebcf8374a8d7ea7672fa"
+    },
+    {
+      "name": "lab3",
+      "url": "https://colab.research.google.com/drive/1g_o6v2EErRJKZx5pmX3r8dCsInVkVC7h",
+      "title": "Lab 3",
+      "export_url": "https://drive.google.com/uc?export=download&id=1g_o6v2EErRJKZx5pmX3r8dCsInVkVC7h",
+      "bytes": 2544447,
+      "sha256": "6ad6a71f955867044b6d1183676e6e975f3652a0de1f6188b4f2004b46f62339"
+    },
+    {
+      "name": "lab4",
+      "url": "https://colab.research.google.com/drive/1r26Togpim59OcHDCD2UInWYQZKz6_wSO",
+      "title": "Lab 4",
+      "export_url": "https://drive.google.com/uc?export=download&id=1r26Togpim59OcHDCD2UInWYQZKz6_wSO",
+      "bytes": 3374707,
+      "sha256": "e0307d10e642cb52449d265ae7d7fab748249da3e2862c3d0d3acf9456ae4180"
+    }
+  ]
+}
